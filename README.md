@@ -9,7 +9,7 @@ Este repositório contém um programa desenvolvido na linguagem C, no ambiente d
 - Exibir os números ímpares da lista em ordem inversa: essa função recursiva percorre a lista em ordem inversa e exibe os números ímpares presentes.
 - Exibir os números pares da lista: essa função recursiva percorre a lista e exibe os números pares presentes.
 - Exibir os números pares da lista em ordem inversa: essa função recursiva percorre a lista em ordem inversa e exibe os números pares presentes.
-- Realizar operações matemáticas com caracteres de um número inteiro: essa função recursiva recebe um número inteiro como uma string de caracteres e realiza as operações de soma, subtração, multiplicação e divisão entre os dígitos do número.
+- Realizar operações matemáticas com caracteres de um número inteiro: essa função recursiva recebe um número inteiro e realiza as operações de soma, subtração, multiplicação e divisão entre os dígitos do número.
 
 ## Como executar o programa
 
