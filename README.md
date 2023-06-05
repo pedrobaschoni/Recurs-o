@@ -27,6 +27,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request 
 
 ---
 
-Esperamos que este projeto seja útil para o seu aprendizado durante a Semana Epitaciana de Computação 2023. Se tiver alguma dúvida ou sugestão, fique à vontade para entrar em contato.
+Esperamos que este projeto seja útil para o seu aprendizado. Se tiver alguma dúvida ou sugestão, fique à vontade para entrar em contato.
 
 Divirta-se codificando! 🚀
